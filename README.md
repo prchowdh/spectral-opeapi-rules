@@ -1,5 +1,10 @@
 ## Cimpress : API Style Guide 
 
+Cimpress API Style guide extends the following 
+- https://github.com/stoplightio/spectral-owasp-ruleset
+- https://github.com/IBM/openapi-validator
+- https://github.com/stoplightio/spectral both "spectral:oas", "spectral:asyncapi rules 
+
 
 ##### Installlation 
 ``` bash
